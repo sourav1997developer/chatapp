@@ -1,0 +1,29 @@
+.boxstyle {
+    display: flex;
+    justify-content: center
+}
+
+.buttonStyle {
+    background-color: red;
+    color: aliceblue;
+    font-size: 20px;
+    font-weight: 500;
+    border-radius: 4px;
+}
+
+.sendButton {
+    background-color: purple;
+    color: aliceblue;
+    padding: 5px 8px;
+    border-radius: 4px;
+}
+
+.inputStyle {
+    height: 30px;
+    border: 1px solid gray;
+    border-radius: 4px;
+    padding-left: 5px;
+    width: 250px;
+    max-width: 100%;
+    outline: none;
+}
